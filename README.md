@@ -26,6 +26,7 @@ This project analyzes the IBM HR Analytics dataset to understand employee attrit
 - SQL
 - Power BI
 - Microsoft Excel
+-Gen AI
 
 ## 📊 Dashboard Features
 - Employee Overview
